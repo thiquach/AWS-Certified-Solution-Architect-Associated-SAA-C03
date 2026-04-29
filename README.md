@@ -1,43 +1,69 @@
-# AWS Certified Solutions Architect Associate - Study Notes
+# AWS Certified Solutions Architect Associate — Study Notes
 
-Study notes, architecture diagrams, and hands-on labs for the AWS Certified Solutions Architect Associate (SAA-C03), focused on building practical skills and exam readiness.
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-SAA--C03-orange" />
+  <img src="https://img.shields.io/badge/Level-Associate-blue" />
+  <img src="https://img.shields.io/badge/Content-Hands--On-success" />
+  <img src="https://img.shields.io/badge/Status-In_Progress-yellow" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+</p>
 
-## Overview
-A free, and open-source study guide for the AWS Certified Solutions Architect Associate SAA-C03 certification exam
+A structured collection of study notes, architecture diagrams, and hands-on labs for the AWS Certified Solutions Architect – Associate (SAA-C03), focused on building practical skills and real-world understanding.
 
-## Topics Covered
-Part 1
-- IAM & AWS  CLI
-- EC2 Fundamentals
-- EC2 Advanced
-- High Availability and Scalability: ELB & ASG
-- RDS + Aurora + ElastiCache
-- Route 53
+---
 
-Part 2:
-- S3 Introduction
-- S3 Advanced
-- S3 Security
-- CloudFront
-- AWS Storage
-- Messaging - SQS, SNS, Kinesis
-- Container - ECS, Fargate, ECR and EKS
-- Serverless
+## 📘 Overview
+This repository is a free and open-source study guide for the AWS Certified Solutions Architect – Associate (SAA-C03) exam.  
+It combines concise theory, architecture patterns, and practical labs to reinforce learning.
 
-Part 3:
-- Databases: RDS, Aurora, ElastiCache, DynamoDB, Neptune, Keyspaces(for Apache Cassandra), Timestream
-- Data & analytics
-- Machine Learning
-- Monitoring and troubleshooting
-- IAM-advanced
-- Encryption
-- VPC
-- Disaster Recovery
+---
 
-## Architecture Diagrams
+## 🧭 Topics Covered
 
-## Hands-on Labs
+### Part 1 — Core Services
+- IAM & AWS CLI  
+- EC2 Fundamentals  
+- EC2 Advanced  
+- High Availability & Scalability (ELB & ASG)  
+- RDS, Aurora & ElastiCache  
+- Route 53  
 
-## Exam Notes
+### Part 2 — Storage, Messaging & Compute
+- S3 (Introduction, Advanced, Security)  
+- CloudFront  
+- AWS Storage Services  
+- Messaging (SQS, SNS, Kinesis)  
+- Containers (ECS, Fargate, ECR, EKS)  
+- Serverless  
 
-## Links
+### Part 3 — Advanced Topics
+- Databases (RDS, Aurora, DynamoDB, Neptune, Keyspaces, Timestream)  
+- Data & Analytics  
+- Machine Learning  
+- Monitoring & Troubleshooting  
+- Advanced IAM  
+- Encryption  
+- VPC  
+- Disaster Recovery  
+
+---
+
+## 🏗️ Architecture Diagrams
+Visual representations of key AWS architectures and design patterns.
+
+---
+
+## 🧪 Hands-on Labs
+Step-by-step labs to build and reinforce real-world AWS solutions.
+
+---
+
+## 📝 Exam Notes
+Concise summaries and key takeaways for quick revision.
+
+---
+
+## 🔗 Useful Links
+- AWS Documentation  
+- Exam Guide  
+- Whitepapers  
