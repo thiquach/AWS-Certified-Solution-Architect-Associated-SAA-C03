@@ -66,8 +66,8 @@ Concise summaries and key takeaways for quick revision.
 ## 🔗 Useful Links
 - [Exam Guide](https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/)
 - [Exam Guide - pdf ](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
-- [AWS Architectures](https://awa.amazon.com/architecture/)
-- [AWS Solutions](https://awa.amazon.com/solutions/)
+- [AWS Architectures](https://aws.amazon.com/architecture/)
+- [AWS Solutions](https://aws.amazon.com/solutions/)
 - [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 - [AWS Glossary](https://docs.aws.amazon.com/glossary/latest/reference/)
 - [AWS Blog](https://aws.amazon.com/blogs/aws/new-elastic-network-interfaces-in-the-virtual-private-cloud/)
