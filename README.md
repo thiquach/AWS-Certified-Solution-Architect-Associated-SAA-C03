@@ -79,6 +79,6 @@ AWS Whitepapers:
 
 Links
 - (https://aws.amazon.com/blogs/aws/new-elastic-network-interfaces-in-the-virtual-private-cloud/)
-- (media.datacumulus.com)
+- ([media.datacumulus.com](https://media.datacumulus.com/aws-saa/AWS%20Certified%20Solutions%20Architect%20Slides%20v37.pdf?_gl=1*emfgo0*_ga*MjAxODgzMDgxLjE3MjE3MTY0OTA.*_ga_6GZZTGGX7H*MTcyMTcxNjQ5MC4xLjAuMTcyMTcxNjQ5MC42MC4wLjA.))
 - (https://tutorialsdojo.com/aws-cheat-sheets/)
 - (https://www.ipaddressguide.com/cidr)
