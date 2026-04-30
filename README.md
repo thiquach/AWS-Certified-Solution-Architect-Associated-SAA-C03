@@ -63,7 +63,22 @@ Concise summaries and key takeaways for quick revision.
 
 ---
 
-## 🔗 Useful Links
-- AWS Documentation  
-- Exam Guide  
-- Whitepapers  
+## 🔗 Useful Links 
+- Exam Guide
+(https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/)
+(https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pd)
+
+- AWS Documentation
+(https://awa.amazon.com/architecture/)
+(https://awa.amazon.com/solutions/)
+
+- AWS Whitepapers:
+(https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
+(https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/)
+(https://docs.aws.amazon.com/glossary/latest/reference/)
+
+- Links
+(https://aws.amazon.com/blogs/aws/new-elastic-network-interfaces-in-the-virtual-private-cloud/)
+(media.datacumulus.com)
+(https://tutorialsdojo.com/aws-cheat-sheets/)
+(https://www.ipaddressguide.com/cidr)
