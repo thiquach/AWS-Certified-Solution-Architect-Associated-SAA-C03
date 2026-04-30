@@ -69,7 +69,7 @@ Concise summaries and key takeaways for quick revision.
 - [AWS Architectures](https://aws.amazon.com/architecture/)
 - [AWS Solutions](https://aws.amazon.com/solutions/)
 - [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
-- [AWS Glossary](https://docs.aws.amazon.com/glossary/latest/reference/)
+- [AWS Glossary](https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html)
 - [AWS Blog](https://aws.amazon.com/blogs/aws/new-elastic-network-interfaces-in-the-virtual-private-cloud/)
 - [Tutorial Dojo cheat-sheet](https://tutorialsdojo.com/aws-cheat-sheets/)
 - [IP Address Guide](https://www.ipaddressguide.com/cidr)
