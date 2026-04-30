@@ -64,7 +64,6 @@ Concise summaries and key takeaways for quick revision.
 ---
 
 ## 🔗 Useful Links
-## 🔗 Useful Links
 - [Exam Guide](https://docs.aws.amazon.com/aws-certification/latest/solutions-architect-associate-03/)
 - [Exam Guide - pdf ](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
 - [AWS Architectures](https://awa.amazon.com/architecture/)
